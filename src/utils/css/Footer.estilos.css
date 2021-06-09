@@ -1,0 +1,21 @@
+.Container_Footer{
+    display: flex;
+    justify-content: space-around;
+    height: 32vh;
+    width: 100%;
+}
+.ContainerText3{
+    display: flex;
+    margin: 10px;
+    width: 50%;
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 20px;
+}
+.ContainerImagen3{
+    display: flex;
+    width: auto;
+    height: 100%;
+    margin-left: 10px;
+    justify-content: center;
+}
