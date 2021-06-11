@@ -27,6 +27,11 @@ const GlobalStyles = createGlobalStyle`
     src: local("Spartan"), url(${PrimaryFont}) format('ttf');
     font-style: normal;
 }
+@media screen and (min-width:769px){
+    .ContainerImagen img{
+        width: auto;
+        height: auto;
+}
 // Esto sirve para no repetir el codigo 494709 mil veces en distintos css
 `
 export default GlobalStyles;
