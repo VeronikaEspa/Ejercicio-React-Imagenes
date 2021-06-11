@@ -4,7 +4,7 @@ import '../utils/css/Title.estilos.css'
 const Title = () => {
     return (
         <div className="ContenedorTitle">
-            <h1 id="tituloPrincipal">Chicas guapas</h1>
+            <h1 id="tituloPrincipal">Series que deberías ver</h1>
         </div>
     )
 }
